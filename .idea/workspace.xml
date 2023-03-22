@@ -9,6 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4959f35e-005c-4fac-9bb4-ad0c267bfc93" name="Changes" comment="adds comments">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servletjsp15/Controller/SignupServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/servletjsp15/DAO/signupDOA.java" afterDir="false" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4959f35e-005c-4fac-9bb4-ad0c267bfc93" name="Changes" comment="adds view all receipt operation" />
+>>>>>>> f598ce92c5ab78eb99ba0ebbf6063655aba63bdf
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,8 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679300249536</updated>
+<<<<<<< HEAD
       <workItem from="1679300250991" duration="12017000" />
       <workItem from="1679475131179" duration="3177000" />
+=======
+      <workItem from="1679300250991" duration="20853000" />
+>>>>>>> f598ce92c5ab78eb99ba0ebbf6063655aba63bdf
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1679306105010</created>
@@ -200,7 +208,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679314883579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adds DAO implementation to project">
+      <created>1679391906961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679391906961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adds view all receipt operation">
+      <created>1679478558517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679478558517</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adds view all receipt operation">
+      <created>1679478677285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679478677285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adds view all receipt operation">
+      <created>1679479451749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679479451749</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +245,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="adds comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds comments" />
+    <MESSAGE value="adds DAO implementation to project" />
+    <MESSAGE value="adds view all receipt operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds view all receipt operation" />
   </component>
 </project>
